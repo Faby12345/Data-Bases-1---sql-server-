@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/lab1_social_media_proj.sql" value="9e8eaae5-0e54-4602-987e-dc8ce5484e18" />
+    <file url="file://$PROJECT_DIR$/lab2.sql" value="9e8eaae5-0e54-4602-987e-dc8ce5484e18" />
+    <file url="file://$PROJECT_DIR$/lab2_querys_for_social_media.sql" value="9e8eaae5-0e54-4602-987e-dc8ce5484e18" />
+    <file url="file://$PROJECT_DIR$/lab3.sql" value="9e8eaae5-0e54-4602-987e-dc8ce5484e18" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/9e8eaae5-0e54-4602-987e-dc8ce5484e18/console.sql" value="9e8eaae5-0e54-4602-987e-dc8ce5484e18" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/9e8eaae5-0e54-4602-987e-dc8ce5484e18/console_1.sql" value="9e8eaae5-0e54-4602-987e-dc8ce5484e18" />
+  </component>
+</project>
