@@ -12,7 +12,7 @@ GO
 USE University6;
 GO
 
-/* ===== 1) Simple example tables ===== */
+/* ===== 1) Simple example tables ===== test  */
 CREATE TABLE dbo.Departments (
                                  DepartmentId INT IDENTITY(1,1) PRIMARY KEY,
                                  Name NVARCHAR(100) NOT NULL UNIQUE
